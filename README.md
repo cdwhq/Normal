@@ -1,6 +1,6 @@
 ## Architecture Standards
 
-**Development**
+**stable**
 
 We'd like to capture our architectural decisions about the build tool as [Architectural Decision Records (ADRs)](https://adr.github.io/).
 For now we just have this global repository of ADRs.
